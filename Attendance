@@ -4,6 +4,7 @@ The first class, you will need to find your enumber and add today's date next to
 Please leave blank line between entries. If you don't see your enumber, please add it (leaving a blank line on either side of it) and add the date.
 For subsequent classes, change the date to the keyword I give you at the start of class.
 
+E00760025: i am learning testing and doing an activity today.
 E00768063  2/12/2026 I am learning testing and doing an activity:).
 E00764229 - 3/3/2026 - I am learning Testing and doing an Activity.
 Cade Kardes = E00762685 03/05/2026 I am learning Testing and doing the activity.
@@ -12,15 +13,16 @@ E00760025: I am doing Sprint1 Demo.
 E00769563 i am doing sprint1 demo
 E00762840: 2/24/2026 I'm doing Sprint1 Demo
 E00764229 - 2/24/2026 - I am doing my midterm.
+Cade Kardes = E00762685 02/24/2026 Today I am doing Sprint1 Demo
 E00760025: I am taking midterm today.
 
 E00769563 i'm doing midterm
 
 E00762840: 2/12/2026 I'm learning about detail design and sprint 1
-E00760025: I am learning detail design and sprint 1 today.
 E00768063  2/10/2026 I'm learning Software design :).
 E00762840: 2/5/2026 I'm learning about scrum requirments.
 
+E00761240 Payton Scott: I am doing Sprint1 Demo.
 E00760025: I am learning SCRUM requirements today
 E00761240 Payton Scott: I am learning testing and doing an Activity.
 
@@ -31,7 +33,6 @@ E00762840: 2/3/2026 I'm learning about requirments
 E00761240 2/3/2026 I am learning requirements today.
 E00765108 2-12-2026 I'm learning design and sprint today.
 
-E00760025: I am learning requirements today
 E00762840: 1/29/2026 I'm learning about Scrum today.
 E00769563 i am learning scrum
 
@@ -39,7 +40,6 @@ E00773450: I am learning testing and doing an activity today 🔥
 E00768063  1/29/2026 I'm learning scrum today :).
 
 E00769563 i am studying life cycle models this week
-E00760025: I am studying life-cycle models this week
 E00765108: I'm learning Scrum Requirements 2-5/26
 
 E00773450: I am studying life cycle models this week! 
@@ -77,8 +77,6 @@ E00745033  I'm learning Scrum.
 E00762685  1-20-2026
 
 E00766705  1/29/2026 I'm learning scrum this week.
-
-E00760025  1/20/2026 
 
 E00768063  1/20/2026
 
